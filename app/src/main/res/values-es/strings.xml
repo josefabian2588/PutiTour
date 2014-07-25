@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="hello_world">hola</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="salir">Salir</string>
+    <string name="mayoredad">Soy Mayor de Edad</string>
+
+</resources>
