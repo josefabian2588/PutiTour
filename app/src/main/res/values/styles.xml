@@ -1,8 +1,14 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+
+    <style name="FondoBarraPersonalizada">
+        <item name="android:background">#3366CC</item>
     </style>
+    <style name="AppTheme" parent="android:Theme">
+        <item name="android:windowTitleSize">40dip</item>
+        <item name="android:windowTitleBackgroundStyle">@style/FondoBarraPersonalizada</item>
+    </style>
+
 
 </resources>

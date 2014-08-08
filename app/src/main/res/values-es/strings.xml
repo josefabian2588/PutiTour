@@ -4,5 +4,8 @@
     <string name="ingresar">Ingresar</string>
     <string name="salir">Salir</string>
     <string name="mayoredad">Soy Mayor de Edad</string>
+    <string name="categorias">Categorias</string>
+    <string name="titulopersonalizado">titulopersonalizado</string>
 
+    titulopersonalizado
 </resources>
