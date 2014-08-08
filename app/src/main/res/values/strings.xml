@@ -4,5 +4,9 @@
     <string name="app_name">PutiTour</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <color name="white">#FFFFFF</color>
+    <string name="termino_mayoredad">This Application contains information sexually .If you are under the age of 18, or these material offends you please do not continue. </string>
+    <string name="categorias">Categorias</string>
+    <string name="titulopersonalizado">titulopersonalizado</string>
+    <string name="mayoredad">I am at least 18 years of age?</string>
 </resources>

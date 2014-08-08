@@ -29,6 +29,17 @@
             </LinearLayout>
 
 
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/termino_mayoredad"
+                android:id="@+id/lblmayoredad"
+                android:layout_gravity="center_horizontal" />
+
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

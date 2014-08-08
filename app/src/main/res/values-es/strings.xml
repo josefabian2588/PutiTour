@@ -3,9 +3,11 @@
     <string name="hello_world">hola</string>
     <string name="ingresar">Ingresar</string>
     <string name="salir">Salir</string>
-    <string name="mayoredad">Soy Mayor de Edad</string>
+    <string name="termino_mayoredad">Esta aplicación contiene información sexual Si usted es menor de 18 años, o si estos materiales le ofende; por favor no continúe. </string>
     <string name="categorias">Categorias</string>
     <string name="titulopersonalizado">titulopersonalizado</string>
+    <string name="mayoredad">¿Tengo por lo menos 18 años de edad?</string>
+
 
     titulopersonalizado
 </resources>
